@@ -66,4 +66,4 @@
 - to check a particular arc: d^2
 - maximum number of times you can check an arc
 - can check an arc up to d times, since X->Y, Y can lose values d times
-- O(n\*d^2\*d^2)
+- O(n^2\*d^2)
