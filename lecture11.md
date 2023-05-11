@@ -45,3 +45,5 @@
 - there exists x, Dog(x) is the same as Dog(D) if D doesn't exist in knowledge base
 - skolem constnt
 - skolem function
+- For all x there exists y s.t. loves(x, y)
+- for all x loves(X, P(X))
