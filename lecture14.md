@@ -11,3 +11,16 @@
   - sensitivity analysis
 
 <img src="images/IMG_3555.JPG">
+
+- prior marginals
+- posterior marginals
+- MPE: most probable explanation
+- MAP: maximum a posteriori hypothesis
+
+- SDP: same decision probability
+- causal queries:
+  - intercentral queries
+  - counterfactual queries
+
+## Trees and polytrees
+- polytrees: nodes can have multiple parents
