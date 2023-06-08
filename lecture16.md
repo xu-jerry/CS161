@@ -20,8 +20,8 @@
 - higher is more even
 - lowest is spike
 - formula is 
-$$ENT(X) = \sum_x Pr(x)*log_ePr(x)$$
-$$ENT(X|y) = -\sum_xPr(x|y)log_ePr(x|y)$$ 
+$$ENT(X) = \sum_x Pr(x)*log_2Pr(x)$$
+$$ENT(X|y) = -\sum_xPr(x|y)log_2Pr(x|y)$$ 
 - ^ this one might increase!
 $$ENT(X|Y) = -\sum_yPr(y)ENT(X|y)$$
 $$ENT(X|Y) \leq ENT(X)$$
